@@ -37,4 +37,4 @@
   go-tests = true
   unused-packages = true
 
-metadata.heroku['https://github.com/ctrladam/szerverinfo-bot']
+metadata.heroku['github.com/ctrladam/szerverinfo-bot']
